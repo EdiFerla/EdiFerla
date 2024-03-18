@@ -8,7 +8,6 @@
 - 🌱 Currently, I'm honing my skills as a software developer, constantly striving to become a better programmer.
 - 💞️ I'm open to collaborations related to software development, knowledge exchange, and experiences in the field.
 
-<h2 font-weight="bold">Process</h2>
 <p align="center">
   <img  src="rr.svg"
     alt="ngud" />
